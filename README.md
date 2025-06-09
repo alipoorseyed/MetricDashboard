@@ -33,3 +33,10 @@ A modern metrics dashboard built with Next.js, featuring dynamic charts, respons
 
   ```bash
   json-server --watch server/db.json --port 3001
+
+
+## 📸 Preview
+
+![Image](https://github.com/user-attachments/assets/ff6136f4-60ed-4286-815c-1092f9d29c01)
+![Image](https://github.com/user-attachments/assets/0490ff44-c2e8-4379-acb2-7b21ac464274)
+  
