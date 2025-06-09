@@ -1,0 +1,26 @@
+{
+  "jan": {
+    "Revenue": 1000,
+    "Users": 120,
+    "Visits": 340,
+    "Transactions": 90
+  },
+  "feb": {
+    "Revenue": 1300,
+    "Users": 150,
+    "Visits": 410,
+    "Transactions": 100
+  },
+  "mar": {
+    "Revenue": 1100,
+    "Users": 140,
+    "Visits": 390,
+    "Transactions": 80
+  },
+  "apr": {
+    "Revenue": 1500,
+    "Users": 160,
+    "Visits": 420,
+    "Transactions": 110
+  }
+}
